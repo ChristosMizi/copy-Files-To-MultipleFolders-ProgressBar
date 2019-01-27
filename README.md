@@ -27,7 +27,7 @@ For Example for Sweden
 If you try to copy files to directory(s) that not validate the  Destination Folder path Warning Message will pop up (The path is not Valid, Enter a valid path)
 
 2) If the file to be copied was not found to the below path for example
-\\Server\.....\Heineken\1. Latest Client Content Folder\My Nielsen Answers - Heineken 2018.01.08\Answers Data\Customization
+\\Server\.....\Heineken\1. Latest Client Content Folder\My Nielsen Answers - Heineken_2018.01.08\Answers Data\Customization
 
 A file .csv will be created that provides you with helpful info,
  - The name of the file that wasn't copied
