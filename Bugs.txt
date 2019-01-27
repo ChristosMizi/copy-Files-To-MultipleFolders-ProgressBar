@@ -1,0 +1,7 @@
+1) add one item
+2)textBox de fainetai olo to path kai thelei na pairnei to path kai apo kei
+3)mpara
+4)check all && uncheck all
+5)zip files
+6)excel list name
+

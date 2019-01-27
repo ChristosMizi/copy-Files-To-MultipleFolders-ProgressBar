@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dictionaries_Project", "Dictionaries_Project\Dictionaries_Project.csproj", "{217D6B01-6D6B-40FF-8951-76043D35042A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReGExprExercise", "ReGExprExercise\ReGExprExercise.csproj", "{AC3268E9-8E0D-4E4E-BF86-1DED4CB3E16A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{217D6B01-6D6B-40FF-8951-76043D35042A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{217D6B01-6D6B-40FF-8951-76043D35042A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{217D6B01-6D6B-40FF-8951-76043D35042A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{217D6B01-6D6B-40FF-8951-76043D35042A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC3268E9-8E0D-4E4E-BF86-1DED4CB3E16A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC3268E9-8E0D-4E4E-BF86-1DED4CB3E16A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC3268E9-8E0D-4E4E-BF86-1DED4CB3E16A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC3268E9-8E0D-4E4E-BF86-1DED4CB3E16A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D1CDF1B-000C-4AAF-9E96-D413AA5CDAB3}
+	EndGlobalSection
+EndGlobal
